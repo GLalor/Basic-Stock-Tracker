@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stock Tracker</string>
+    <string name="ticker_input_hint">eg.WDAY</string>
+    <string name="appwidget_text">$ stock price</string>
+    <string name="add_widget">Add widget</string>
+    <string name="getBtn_default">Get stock price</string>
+</resources>
